@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Muesli</title>
+      <link>http://localhost:1313/posts/apple-muesli/</link>
+      <pubDate>Tue, 17 Jul 2018 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/apple-muesli/</guid>
+      <description>&lt;h2 id=&#34;apple-muesli&#34;&gt;Apple Muesli&lt;/h2&gt;&#xA;&lt;p&gt;1 tart apple, grated&lt;/p&gt;&#xA;&lt;p&gt;1 cup oats&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup coconut&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup chopped nuts&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon cinnamon&lt;/p&gt;&#xA;&lt;p&gt;1/4 teaspoon salt&lt;/p&gt;&#xA;&lt;p&gt;4 chopped dates&lt;/p&gt;&#xA;&lt;p&gt;1 cup blueberries or other fresh fruit&lt;/p&gt;&#xA;&lt;p&gt;Yogurt, for serving&lt;/p&gt;&#xA;&lt;p&gt;Add oats, dates, nuts, coconut, cinnamon, and salt to food processor.  Pulse a few times, then stir the apples and blueberries in.  Serve a scoop of the muesli over plain yogurt for breakfast.  If you like a sweeter breakfast, the muesli is lovely with a couple tablespoons of fruit or maple syrup swirled in with the fruit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
