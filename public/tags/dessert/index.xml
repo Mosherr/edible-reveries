@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dessert on Edible Reveries</title>
+    <link>http://localhost:1313/tags/dessert/</link>
+    <description>Recent content in Dessert on Edible Reveries</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2013 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whole Wheat Apple Muffins</title>
+      <link>http://localhost:1313/posts/whole-wheat-apple-muffins/</link>
+      <pubDate>Sun, 13 Oct 2013 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/whole-wheat-apple-muffins/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/apple-muffins.jpg&#34; alt=&#34;apple-muffins.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Whole wheat apple muffins - they look unassuming, but they taste so good&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I think I may have mentioned recently how much I love fall. Well, fall and baking go together like you wouldn’t believe!&#xA;Ever since the air started getting crisper, I’ve been baking every weekend and an alarming number of weekdays. As a&#xA;rule, I don’t love baking as much as I love cooking, mostly because I’m terrifically lazy. Baking requires precision&#xA;measurements and exact times. I prefer throwing things together and letting them stew for hours. But it’s fall and my&#xA;kitchen is cold so I need a hot oven and warm spices to keep me toasty!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

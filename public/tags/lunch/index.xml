@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunch on Edible Reveries</title>
+    <link>http://localhost:1313/tags/lunch/</link>
+    <description>Recent content in Lunch on Edible Reveries</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2017 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lunch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thai Tofu Rice Bowl</title>
+      <link>http://localhost:1313/posts/thai-tofu-rice-bowl/</link>
+      <pubDate>Tue, 19 Sep 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/thai-tofu-rice-bowl/</guid>
+      <description>&lt;h2 id=&#34;thai-tofu-rice-bowl&#34;&gt;Thai Tofu Rice Bowl&lt;/h2&gt;&#xA;&lt;p&gt;dressing adapted from Everyday Maven&lt;/p&gt;&#xA;&lt;p&gt;Dressing:&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup water&lt;/p&gt;&#xA;&lt;p&gt;1/8 cup fish sauce&lt;/p&gt;&#xA;&lt;p&gt;1/8 cup rice vinegar&lt;/p&gt;&#xA;&lt;p&gt;Juice from 1/2 a lime&lt;/p&gt;&#xA;&lt;p&gt;3 tablespoons sugar&lt;/p&gt;&#xA;&lt;p&gt;1 clove garlic, minced&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon chili pepper flakes&lt;/p&gt;&#xA;&lt;p&gt;Quick Pickled Carrots:&lt;/p&gt;&#xA;&lt;p&gt;Shredded carrots&lt;/p&gt;&#xA;&lt;p&gt;1 tablespoon sugar&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon salt&lt;/p&gt;&#xA;&lt;p&gt;Enough rice wine vinegar and water to cover in equal amounts&lt;/p&gt;&#xA;&lt;p&gt;Rice Bowl:&lt;/p&gt;&#xA;&lt;p&gt;Brown rice&lt;/p&gt;&#xA;&lt;p&gt;Baked tofu&lt;/p&gt;&#xA;&lt;p&gt;Cilantro, torn&lt;/p&gt;&#xA;&lt;p&gt;Basil, torn&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Butternut Squash Minestrone</title>
+      <link>http://localhost:1313/posts/butternut-squash-minestrone/</link>
+      <pubDate>Mon, 07 Dec 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/butternut-squash-minestrone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/butternut-squash-minestrone.jpeg&#34; alt=&#34;butternut-squash-minestrone.jpeg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I think every fall I adopt a favorite soup recipe and make it over and over until it’s perfect and everyone else is tired of it.  I’ve been making this soup practically weekly since it started getting cold and I’m certainly not bored yet.  It’s a crowd pleaser, what my inlaws call “friendly food” – warming and hearty.  It’s so loaded with vegetables that it’s also very healthy without sacrificing any flavor.  A pot of this soup is enough to feed me lunch all week.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

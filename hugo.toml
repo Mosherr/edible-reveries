@@ -1,8 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Edible Reveries'
 theme = 'ananke'
 
 [taxonomies]
 tag = 'tags'
-

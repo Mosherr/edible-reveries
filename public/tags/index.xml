@@ -1,11 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Edible Reveries</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Edible Reveries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 13:19:10 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dinner</title>
+      <link>http://localhost:1313/tags/dinner/</link>
+      <pubDate>Tue, 17 Jul 2018 13:19:10 -0800</pubDate>
+      <guid>http://localhost:1313/tags/dinner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grilling</title>
+      <link>http://localhost:1313/tags/grilling/</link>
+      <pubDate>Tue, 17 Jul 2018 13:19:10 -0800</pubDate>
+      <guid>http://localhost:1313/tags/grilling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Summer Meal</title>
+      <link>http://localhost:1313/tags/summer-meal/</link>
+      <pubDate>Tue, 17 Jul 2018 13:19:10 -0800</pubDate>
+      <guid>http://localhost:1313/tags/summer-meal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Breakfest</title>
+      <link>http://localhost:1313/tags/breakfest/</link>
+      <pubDate>Tue, 17 Jul 2018 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/breakfest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch</title>
+      <link>http://localhost:1313/tags/lunch/</link>
+      <pubDate>Tue, 19 Sep 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/lunch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rice</title>
+      <link>http://localhost:1313/tags/rice/</link>
+      <pubDate>Tue, 19 Sep 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/rice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetarian</title>
+      <link>http://localhost:1313/tags/vegetarian/</link>
+      <pubDate>Tue, 19 Sep 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Breakfast</title>
+      <link>http://localhost:1313/tags/breakfast/</link>
+      <pubDate>Tue, 18 Jul 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/breakfast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Breakfast for Dinner</title>
+      <link>http://localhost:1313/tags/breakfast-for-dinner/</link>
+      <pubDate>Tue, 18 Jul 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/breakfast-for-dinner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ground Turkey</title>
+      <link>http://localhost:1313/tags/ground-turkey/</link>
+      <pubDate>Fri, 30 Jun 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ground-turkey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Basics</title>
+      <link>http://localhost:1313/tags/the-basics/</link>
+      <pubDate>Fri, 30 Jun 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/the-basics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fall</title>
+      <link>http://localhost:1313/tags/fall/</link>
+      <pubDate>Mon, 07 Dec 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/fall/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soup</title>
+      <link>http://localhost:1313/tags/soup/</link>
+      <pubDate>Mon, 07 Dec 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/soup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persian</title>
+      <link>http://localhost:1313/tags/persian/</link>
+      <pubDate>Sat, 01 Aug 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/persian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessert</title>
+      <link>http://localhost:1313/tags/dessert/</link>
+      <pubDate>Sun, 13 Oct 2013 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/dessert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1313/tags/family/</link>
+      <pubDate>Sat, 21 Sep 2013 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/tags/family/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

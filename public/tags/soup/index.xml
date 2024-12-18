@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soup on Edible Reveries</title>
+    <link>http://localhost:1313/tags/soup/</link>
+    <description>Recent content in Soup on Edible Reveries</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2015 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/soup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Butternut Squash Minestrone</title>
+      <link>http://localhost:1313/posts/butternut-squash-minestrone/</link>
+      <pubDate>Mon, 07 Dec 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/butternut-squash-minestrone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/butternut-squash-minestrone.jpeg&#34; alt=&#34;butternut-squash-minestrone.jpeg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I think every fall I adopt a favorite soup recipe and make it over and over until it’s perfect and everyone else is tired of it.  I’ve been making this soup practically weekly since it started getting cold and I’m certainly not bored yet.  It’s a crowd pleaser, what my inlaws call “friendly food” – warming and hearty.  It’s so loaded with vegetables that it’s also very healthy without sacrificing any flavor.  A pot of this soup is enough to feed me lunch all week.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

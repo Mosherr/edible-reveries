@@ -1,19 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Edible Reveries</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Edible Reveries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jul 2018 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 13:19:10 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thai Steak Noodle Salad</title>
+      <link>http://localhost:1313/posts/thai-steak-noodle-salad/</link>
+      <pubDate>Tue, 17 Jul 2018 13:19:10 -0800</pubDate>
+      <guid>http://localhost:1313/posts/thai-steak-noodle-salad/</guid>
+      <description>&lt;h2 id=&#34;thai-steak-and-noodle-salad&#34;&gt;Thai Steak and Noodle Salad&lt;/h2&gt;&#xA;&lt;p&gt;Adapted from Smitten Kitchen&lt;/p&gt;&#xA;&lt;p&gt;Sauce and Marinade:&lt;/p&gt;&#xA;&lt;p&gt;1/4 cup brown sugar&lt;/p&gt;&#xA;&lt;p&gt;4 tablespoons fish sauce&lt;/p&gt;&#xA;&lt;p&gt;1/3 cup lime juice&lt;/p&gt;&#xA;&lt;p&gt;3 cloves minced garlic&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon sriracha&lt;/p&gt;&#xA;&lt;p&gt;Salad:&lt;/p&gt;&#xA;&lt;p&gt;1 pound flat iron steak (flank steak works nicely too)&lt;/p&gt;&#xA;&lt;p&gt;3 tablespoons avocado oil (or vegetable oil)&lt;/p&gt;&#xA;&lt;p&gt;8 ounce package thin rice noodles&lt;/p&gt;&#xA;&lt;p&gt;1 pound green beans (I like the package of haricot vert they sell at Trader Joe&amp;rsquo;s)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Apple Muesli</title>
       <link>http://localhost:1313/posts/apple-muesli/</link>
       <pubDate>Tue, 17 Jul 2018 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/apple-muesli/</guid>
       <description>&lt;h2 id=&#34;apple-muesli&#34;&gt;Apple Muesli&lt;/h2&gt;&#xA;&lt;p&gt;1 tart apple, grated&lt;/p&gt;&#xA;&lt;p&gt;1 cup oats&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup coconut&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup chopped nuts&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon cinnamon&lt;/p&gt;&#xA;&lt;p&gt;1/4 teaspoon salt&lt;/p&gt;&#xA;&lt;p&gt;4 chopped dates&lt;/p&gt;&#xA;&lt;p&gt;1 cup blueberries or other fresh fruit&lt;/p&gt;&#xA;&lt;p&gt;Yogurt, for serving&lt;/p&gt;&#xA;&lt;p&gt;Add oats, dates, nuts, coconut, cinnamon, and salt to food processor.  Pulse a few times, then stir the apples and blueberries in.  Serve a scoop of the muesli over plain yogurt for breakfast.  If you like a sweeter breakfast, the muesli is lovely with a couple tablespoons of fruit or maple syrup swirled in with the fruit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thai Tofu Rice Bowl</title>
+      <link>http://localhost:1313/posts/thai-tofu-rice-bowl/</link>
+      <pubDate>Tue, 19 Sep 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/thai-tofu-rice-bowl/</guid>
+      <description>&lt;h2 id=&#34;thai-tofu-rice-bowl&#34;&gt;Thai Tofu Rice Bowl&lt;/h2&gt;&#xA;&lt;p&gt;dressing adapted from Everyday Maven&lt;/p&gt;&#xA;&lt;p&gt;Dressing:&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup water&lt;/p&gt;&#xA;&lt;p&gt;1/8 cup fish sauce&lt;/p&gt;&#xA;&lt;p&gt;1/8 cup rice vinegar&lt;/p&gt;&#xA;&lt;p&gt;Juice from 1/2 a lime&lt;/p&gt;&#xA;&lt;p&gt;3 tablespoons sugar&lt;/p&gt;&#xA;&lt;p&gt;1 clove garlic, minced&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon chili pepper flakes&lt;/p&gt;&#xA;&lt;p&gt;Quick Pickled Carrots:&lt;/p&gt;&#xA;&lt;p&gt;Shredded carrots&lt;/p&gt;&#xA;&lt;p&gt;1 tablespoon sugar&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon salt&lt;/p&gt;&#xA;&lt;p&gt;Enough rice wine vinegar and water to cover in equal amounts&lt;/p&gt;&#xA;&lt;p&gt;Rice Bowl:&lt;/p&gt;&#xA;&lt;p&gt;Brown rice&lt;/p&gt;&#xA;&lt;p&gt;Baked tofu&lt;/p&gt;&#xA;&lt;p&gt;Cilantro, torn&lt;/p&gt;&#xA;&lt;p&gt;Basil, torn&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple Oatmeal Waffles</title>
+      <link>http://localhost:1313/posts/apple-oatmeal-waffles/</link>
+      <pubDate>Tue, 18 Jul 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/apple-oatmeal-waffles/</guid>
+      <description>&lt;h2 id=&#34;apple-oatmeal-waffles&#34;&gt;Apple Oatmeal Waffles&lt;/h2&gt;&#xA;&lt;p&gt;adapted from &lt;a href=&#34;http://www.mrbreakfast.com/superdisplay.asp?recipeid=578&#34;&gt;Mr. Breakfast.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;1 1/2 cups flour&lt;/p&gt;&#xA;&lt;p&gt;1 cup oats&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon baking powder&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon baking soda&lt;/p&gt;&#xA;&lt;p&gt;1 1/2 teaspoons cinnamon&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon nutmeg&lt;/p&gt;&#xA;&lt;p&gt;2 eggs&lt;/p&gt;&#xA;&lt;p&gt;1 1/2 cups buttermilk&lt;/p&gt;&#xA;&lt;p&gt;4 tablespoons vegetable oil&lt;/p&gt;&#xA;&lt;p&gt;2 tablespoons brown sugar&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon vanilla&lt;/p&gt;&#xA;&lt;p&gt;2 Granny Smith apples grated&lt;/p&gt;&#xA;&lt;p&gt;Whisk together dry ingredients in large bowl.  Beat eggs in separate bowl; add wet ingredients and sugar, stir.  Fold in grated apple.  Cover and let sit for 1 hour&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weeknight Turkey Tacos</title>
+      <link>http://localhost:1313/posts/weeknight-turkey-tacos/</link>
+      <pubDate>Fri, 30 Jun 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/weeknight-turkey-tacos/</guid>
+      <description>&lt;h2 id=&#34;weeknight-turkey-tacos&#34;&gt;Weeknight Turkey Tacos&lt;/h2&gt;&#xA;&lt;p&gt;Adapted from Cook&amp;rsquo;s Illustrated Beef Tacos&lt;/p&gt;&#xA;&lt;p&gt;1 1/4 pounds ground turkey&lt;/p&gt;&#xA;&lt;p&gt;1 tablespoon olive oil&lt;/p&gt;&#xA;&lt;p&gt;1 diced onion&lt;/p&gt;&#xA;&lt;p&gt;3 minced garlic cloves&lt;/p&gt;&#xA;&lt;p&gt;2 tablespoons chili powder&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon cumin&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon oregano&lt;/p&gt;&#xA;&lt;p&gt;1/4 teaspoon cayenne pepper&lt;/p&gt;&#xA;&lt;p&gt;1/4 teaspoon chipotle powder&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon salt&lt;/p&gt;&#xA;&lt;p&gt;3 tablespoons tomato paste&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup chicken broth&lt;/p&gt;&#xA;&lt;p&gt;2 teaspoons cider vinegar&lt;/p&gt;&#xA;&lt;p&gt;1 teaspoon brown sugar&lt;/p&gt;&#xA;&lt;p&gt;Heat up oil in skillet on medium heat.  Add onions and sautee until softened, 5-10 minutes.  In last 30 seconds, add garlic and sautee.  Add ground turkey and break up into pieces, cooking until no longer pink.   Add all spices and cook until fragrant, 30 more seconds.  Stir in tomato paste, broth, vinegar and sugar.  Cook 5-10 minutes more, until thickened to consistency you like.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sticky Ginger Tofu</title>
+      <link>http://localhost:1313/posts/sticky-ginger-tofu/</link>
+      <pubDate>Thu, 29 Jun 2017 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/sticky-ginger-tofu/</guid>
+      <description>&lt;h2 id=&#34;sticky-ginger-tofu&#34;&gt;Sticky Ginger Tofu&lt;/h2&gt;&#xA;&lt;p&gt;Adapted from &lt;a href=&#34;http://www.dinneralovestory.com/tofu-multiple-choice/&#34;&gt;Dinner: A Love Story&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;1 block extra firm tofu&lt;/p&gt;&#xA;&lt;p&gt;2 teaspoons sesame oil&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup soy sauce&lt;/p&gt;&#xA;&lt;p&gt;1/2 cup water&lt;/p&gt;&#xA;&lt;p&gt;1/2 - 1 teaspoon grated ginger&lt;/p&gt;&#xA;&lt;p&gt;1 large clove grated garlic&lt;/p&gt;&#xA;&lt;p&gt;3 tablespoons rice wine vinegar&lt;/p&gt;&#xA;&lt;p&gt;1/3 cup brown sugar&lt;/p&gt;&#xA;&lt;p&gt;1/2 teaspoon sriracha (or to taste)&lt;/p&gt;&#xA;&lt;p&gt;2 tablespoons cornstarch&lt;/p&gt;&#xA;&lt;p&gt;2 tablespoons olive oil or vegetable oil&lt;/p&gt;&#xA;&lt;p&gt;3 green onions&lt;/p&gt;&#xA;&lt;p&gt;1 lime&lt;/p&gt;&#xA;&lt;p&gt;Slice the tofu in half and wrap in clean, lint-free dish towels.  Weigh it down with heavy pans, wine bottles, etc.  Let drain for 30 minutes.  While tofu drains, make the sauce.  Mix sauce ingredients (sesame oil through brown sugar) and set aside.  Slice green onions and quarter limes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Butternut Squash Minestrone</title>
+      <link>http://localhost:1313/posts/butternut-squash-minestrone/</link>
+      <pubDate>Mon, 07 Dec 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/butternut-squash-minestrone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/butternut-squash-minestrone.jpeg&#34; alt=&#34;butternut-squash-minestrone.jpeg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I think every fall I adopt a favorite soup recipe and make it over and over until it’s perfect and everyone else is tired of it.  I’ve been making this soup practically weekly since it started getting cold and I’m certainly not bored yet.  It’s a crowd pleaser, what my inlaws call “friendly food” – warming and hearty.  It’s so loaded with vegetables that it’s also very healthy without sacrificing any flavor.  A pot of this soup is enough to feed me lunch all week.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baghli Poloh</title>
+      <link>http://localhost:1313/posts/baghli-poloh/</link>
+      <pubDate>Sat, 01 Aug 2015 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/baghli-poloh/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/bowl-of-baghli-poloh.jpg&#34; alt=&#34;bowl-of-baghli-poloh.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This blog post brought to you by U.S., D.L., and M.B. Thanks for a great three years!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;After a long hiatus, here I am again &amp;ndash; on a new computer, in a new house, in a new city, with a new husband. I also got&#xA;a new job and bangs. It&amp;rsquo;s been a crazy year my friends. With all that going on, who has the time to blog? So I let it&#xA;slide for longer and longer, let my blog sit in its own corner of the internet, sad and lonely.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Whole Wheat Apple Muffins</title>
+      <link>http://localhost:1313/posts/whole-wheat-apple-muffins/</link>
+      <pubDate>Sun, 13 Oct 2013 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/whole-wheat-apple-muffins/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/apple-muffins.jpg&#34; alt=&#34;apple-muffins.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Whole wheat apple muffins - they look unassuming, but they taste so good&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I think I may have mentioned recently how much I love fall. Well, fall and baking go together like you wouldn’t believe!&#xA;Ever since the air started getting crisper, I’ve been baking every weekend and an alarming number of weekdays. As a&#xA;rule, I don’t love baking as much as I love cooking, mostly because I’m terrifically lazy. Baking requires precision&#xA;measurements and exact times. I prefer throwing things together and letting them stew for hours. But it’s fall and my&#xA;kitchen is cold so I need a hot oven and warm spices to keep me toasty!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fall Brings Love</title>
+      <link>http://localhost:1313/posts/fall-brings-love/</link>
+      <pubDate>Sat, 21 Sep 2013 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/fall-brings-love/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/fig-challah.jpg&#34; alt=&#34;fig-challah.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Fig &amp;amp; olive oil challah&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I woke up this weekend and turned my face to look out my bedroom window. It’s finally fall.&lt;/p&gt;&#xA;&lt;p&gt;I love fall. I love that I get to wear sweaters and jackets during fall. I love that my hair whips around in the wind&#xA;during fall. I love that when I wrap a scarf around my neck, it keeps getting pushed farther by the fall wind, until my&#xA;face is finally obscured and I can’t see where I’m going. The fall chill has a vitality to it that isn’t the same in the&#xA;winter. It’s crisper - I feel like I can hear it and feel it around me. Or is it just the crunching leaves that I can&#xA;hear? Fall is alive and it makes me feel alive too.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

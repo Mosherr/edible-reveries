@@ -2,17 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <loc>http://localhost:1313/tags/dinner/</loc>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/grilling/</loc>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tags/summer-meal/</loc>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/thai-steak-noodle-salad/</loc>
+    <lastmod>2018-07-17T13:19:10-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/apple-muesli/</loc>
+    <lastmod>2018-07-17T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/breakfest/</loc>
+    <lastmod>2018-07-17T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lunch/</loc>
+    <lastmod>2017-09-19T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rice/</loc>
+    <lastmod>2017-09-19T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/thai-tofu-rice-bowl/</loc>
+    <lastmod>2017-09-19T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <lastmod>2017-09-19T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/apple-oatmeal-waffles/</loc>
+    <lastmod>2017-07-18T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/breakfast/</loc>
+    <lastmod>2017-07-18T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/breakfast-for-dinner/</loc>
+    <lastmod>2017-07-18T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ground-turkey/</loc>
+    <lastmod>2017-06-30T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/the-basics/</loc>
+    <lastmod>2017-06-30T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/weeknight-turkey-tacos/</loc>
+    <lastmod>2017-06-30T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sticky-ginger-tofu/</loc>
+    <lastmod>2017-06-29T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/butternut-squash-minestrone/</loc>
+    <lastmod>2015-12-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fall/</loc>
+    <lastmod>2015-12-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soup/</loc>
+    <lastmod>2015-12-07T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/baghli-poloh/</loc>
+    <lastmod>2015-08-01T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/persian/</loc>
+    <lastmod>2015-08-01T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dessert/</loc>
+    <lastmod>2013-10-13T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/whole-wheat-apple-muffins/</loc>
+    <lastmod>2013-10-13T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fall-brings-love/</loc>
+    <lastmod>2013-09-21T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/family/</loc>
+    <lastmod>2013-09-21T07:07:07+01:00</lastmod>
   </url>
 </urlset>
