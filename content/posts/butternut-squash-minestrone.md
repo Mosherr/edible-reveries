@@ -2,7 +2,7 @@
 title = 'Butternut Squash Minestrone'
 date = 2015-12-07T07:07:07+01:00
 draft = true
-tags = ['fall','soup','lunch']
+tags = ['fall','soup','lunch', 'recipe']
 [params]
     author = 'Amineh'
 +++

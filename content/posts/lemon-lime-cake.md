@@ -1,38 +1,87 @@
 +++
-title = 'Empty Fridge + Hunger = ?'
-date = 2013-05-18T07:07:07+01:00
+title = 'Lemon Lime Layer Cake with Whipped Cream Frosting'
+date = 2013-04-30T07:07:07+01:00
 draft = true
-tags = ['empty fridge', 'miscellaneous']
+tags = ['recipe', 'dessert']
 [params]
 author = 'Amineh'
 +++
 
 
-What do you do when you have an empty fridge and a rumbly tummy?
+On the heels of last week’s delicious disaster, here is the recipe for Lemon Lime Layer Cake with Lemon Whipped Cream
+Frosting and Raspberry Filling. This cake is springy (texturally speaking, but it also suits the warm weather) and
+flavorful - the lemon makes it taste lighter than all that whipped cream should make you feel. Raspberry is meant to be
+paired with lemon!  I served this alongside fresh strawberries and ended up dipping the berries in the whipped cream (
+another match made in heaven!)  If you are fancier than me, try decorating the cake with fresh berries on top of the
+cream.
 
-The only way I’m able to keep on schedule with my cooking is by planning ahead. One afternoon per weekend is spent
-grocery shopping and prepping the week’s meals. I take stock of what perishables I have, I make a meal plan for the week
-and I get down to the business of feeding my household!  This is a wonderful cost and time effective way of living, but
-it does mean I have to carve out time for shopping and planning. What do I do when that time just isn’t available? Well
-my friends, I’m still working on it.
+The recipe is adapted from Cooking Light, who gave me the idea of using frozen juice concentrates as flavoring agents. I
+liked how it turned out. You could probably substitute fresh lemon juice, but would need to increase the sugar in the
+cake to compensate. Or just buy the concentrate and use the rest in cocktails!
 
-I went to Las Vegas last weekend for my big sister’s 30th birthday. It was great fun but after three days of partying
-and eating out, I was very ready to get home and have a freshly prepared meal that wasn’t salted within an inch of it’s
-life (they do this in Vegas to make you drink more -- diabolical!)  Unfortunately, we got home on Monday night and my
-fridge was barren. I swear, I could hear crickets in the silence of my kitchen it was so empty. So I sucked it up and
-ordered in.
+One note on using whipped cream frosting -- this stuff is good. Frosting is a controversial topic, but everyone likes
+flavored whipped cream. In my opinion it’s really the best and easiest way to frost a cake, but in this simple form it
+doesn’t last long because it isn’t stabilized. So, if you want to use this for a cake, make it on the day of serving or
+the day before serving. And make sure to refrigerate!  Alternately, the internet is a goldmine that can tell you how to
+stabilize whipped cream for frosting (I just haven’t tried and can’t recommend a technique).
 
-I’m not against ordering in for dinner -- we probably do it once a week or so. Living in San Francisco means we have a
-lot of good and cheap options for dinner, and I think as long as it doesn’t happen all the time it’s totally acceptable
-to have dinner delivered. But I was busy and my fridge stayed empty this week so we kept ordering in again and again. By
-Friday night, I’d reached my limit. I needed fresh food from my own kitchen!  I sent Daniel to the little grocery store
-down the street and admonished him to bring me back something green and yummy.
+## Lemon Lime Layer Cake
 
-![makings.jpg](/empty-fridge/makings.jpg)
+adapted from [Cooking Light](http://www.myrecipes.com/recipe/lemonade-layer-cake-10000000249959/#)
 
-*The makings of greatness*
+INGREDIENTS
 
-He returned with fifteen dollars worth of out of season organic heirloom tomatoes, a ten dollar ball of fresh, local
-mozzarella and a big bouquet of basil. This is not a cost effective way of solving problems but...I have no regrets and
-my tummy isn’t rumbling anymore.
+1 cup white sugar
+
+6 tablespoons softened butter, plus extra for greasing pans
+
+Zest from 1 lime (or lemon)
+
+4 tablespoons of thawed lemonade concentrate
+
+2 teaspoons vanilla
+
+2 eggs
+
+2 egg whites
+
+2 cups flour, plus extra for flouring pans
+
+1 tablespoon baking powder
+
+1/2 tablespoon baking soda
+
+1/2 teaspoon salt
+
+1 1/4 cups buttermilk (fat free or low fat is fine)
+
+1/2 cup raspberry jam (for filling)
+
+Preheat your oven to 350 degrees. Butter and lightly flour 2 round cake pans.
+
+Whisk together the flour, baking powder, baking soda and salt in a separate bowl. Cream together the first 5
+ingredients (through vanilla) for 5 minutes with an electric mixer. Add the eggs one at a time, beating well after each
+addition. Do the same with the egg whites. Add the flour mixture and the buttermilk a little at a time, alternating
+additions and beating well each time. You should begin and end with the flour.
+
+Pour the batter into the prepared pans - tap them sharply on the counter once to get rid of any air bubbles. Bake them
+in the preheated oven for 20 minutes (to check if cake is done, stick a toothpick in the middle - if it comes out clean,
+it’s done!)  Cool in pans for 10 minutes and then flip them out of the pans to cool on wire racks. Once they are
+completely cooled, spread the jam on top of one cake round; top it with the other. Frost the rest of the cake with the
+whipped cream frosting.
+
+## Lemon Whipped Cream Frosting
+
+INGREDIENTS
+
+1 pint heavy whipped cream
+
+1 teaspoon vanilla
+
+2 tablespoons thawed lemonade concentrate
+
+1 tablespoon powdered sugar
+
+Pour everything into a large bowl. Mix at a high speed until stiff peaks forms. Frost your cake!
+
 

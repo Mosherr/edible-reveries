@@ -1,94 +1,60 @@
 +++
-title = 'Tachin - Layered Persian Rice'
-date = 2013-06-18T07:07:07+01:00
+title = 'Orange Nog'
+date = 2013-05-25T07:07:07+01:00
 draft = true
-tags = ['persian', 'rice', 'dinner', 'chicken']
+tags = ['drink', 'old cookbook', 'recipe']
 [params]
 author = 'Amineh'
 +++
 
+![ingredients.jpg](/orange-nog/ingredients.jpg)
 
-![saffron-yogurt.jpg](/tachin/saffron-yogurt.jpg)
+*Orange nog ingredients*
 
-*Saffron lemon yogurt mixture*
+There is a cookbook in my mother’s home that she received as a wedding gift in 1970,The Culinary Arts Institute
+Encyclopedic Cookbook. She’s been using it all these years, and I’ve been cooking from it since I was about 6. It is
+stained, torn, floury and all together well loved. This is my baking bible - it’s measurements are exact and classic.
+But outside of the baked goods sections, some of these recipes are weird and from another era!
 
-This, in my mind, is the ultimate in comfort food. I crave this dish at all times. If given the opportunity I will
-shamelessly eat the entire pan. It’s also a showstopper at dinner parties and a great “entry level” Persian dish.
-Everyone likes tachin once they try it; it’s exotic, but the flavors are just close enough to home that they are still
-accessible to less-adventurous palates.
+I never really ventured outside of the baking section until I bought my own used copy on Amazon. My copy is even older
+than my mother’s, from 1950. I can’t say I’m willing to try recipes like Gherkins in Dried Beef Rolls or Molded Cheese
+Salad, but when I started wandering through the drink recipes I saw something that sounded delicious called Orange Nog.
+The only nog I have ever known about is egg nog, and I keep that down to one glass a year at the holidays, plus maybe
+some fancy french toast to finish the carton. What would orange nog be like, I wondered?
 
-White rice is layered with shredded chicken and sour barberries, then finished by a crisped layer of rice that is tinted
-by saffron and flavored with lemon and yogurt. If you’ve never tried barberries, they are an extremely tart berry, about
-the size of small currants but with a wildly different flavor. There really isn’t a replacement for these dried berries,
-nor can you substitute saffron with anything else. You’ll have to go out of your way to a middle eastern market to find
-these ingredients, but they are well worth it and both keep in the freezer indefinitely if well wrapped.
+![cookbook.jpg](/orange-nog/cookbook.jpg)
 
-![tachin-layers.jpg](/tachin/tachin-layers.jpg)
+*Culinary Arts Institute Encyclopedic Cookbook -- why is this perfect homemaker cross-eyed?*
 
-*Inner layers of the tachin before baking*
+Orange nog is essentially just lightly sweetened milk shaken over ice with orange juice. So simple and lovely I wonder
+why I never thought of it myself, I picture serving frosty glasses of this nog to my future children. Their cherubic
+faces smile up at me and chirp, “Thank you Mama!” They seem to have perfect Downton Abbey English accents and are all
+wearing newsie caps. Mary Poppins music is playing in the background. My fingernails are perfectly manicured and I think
+I’m effortlessly walking in heels!
 
-I like the bold flavors of this dish, and I always make it even more flavorful by giving it a final hit of salt on my
-plate. The brightness of the lemon plays really well with salt that hasn’t been incorporated during cooking. Of course
-if you are watching your sodium, it isn’t necessary -- but please do make sure to salt your rice cooking water
-liberally, like you would with pasta. Otherwise your final dish will be bland.
+...Or maybe I’ll just make the nog to make myself drink milk.
 
-And do as I do: when it’s time to eat, serve yourself a beautifully composed slice that shows each layer intact. Marvel
-at your own skills. Then mash it all together on your plate so every mouthful has each flavor and texture in it. You’ve
-just experienced the perfect bite of the perfect meal.
+![orange-nog.jpg](/orange-nog/orange-nog.jpg)
 
-![tachin.jpg](/tachin/tachin.jpg)
+*Orange Nog*
 
-*Tachin*
-
-## TACHIN
+## Orange Nog
 
 INGREDIENTS
 
-2 ½ cups long grain white rice
+½ cup of milk (any variety will do -- I suspect that non-dairy would work well, but haven’t tried it myself)
 
-1 cup plain yogurt
+¼ cup orange juice
 
-2 tablespoons lemon juice
+¼ tablespoon sugar
 
-1 egg yolk
+½ teaspoon orange zest
 
-Pinch of saffron threads
+ice
 
-⅛ cup dried barberries
+Place all ingredients in a jar or cocktail shaker. Cover and shake until frothy and well combined. Pour into a glass,
+straining and leaving the ice behind. Serves one happy camper who is getting her calcium for once!
 
-1 cup cooked chicken, diced
-
-½ teaspoon salt
-
-Dash of pepper
-
-3-4 tablespoons olive oil
-
-Preheat your oven to 375 degrees.
-
-Salt a large pot of water generously; add the dry rice and bring to a boil. Don’t fully cook it -- once the rice is
-about half cooked, drain it into a fine mesh strainer and run cold water over it. The rice should still have a bite to
-it at this stage.
-
-While the rice is cooking, mix together the yogurt, egg yolk, salt and pepper, saffron, 1 tablespoon of the olive oil
-and lemon juice thoroughly in a medium bowl. Stir in 2 ½ - 3 cups of the parboiled white rice.
-
-Spread the yellow rice mixture in a greased 8x8 glass baking dish (you want something you can see through here). Evenly
-sprinkle in the barberries, and then the cooked chicken. Finish with the remainder of the white rice. Smooth everything
-out and drizzle over the remaining olive oil.
-
-Cover tightly with foil and bake in the hot oven for 1 hour and 15 minutes. Check the bottom at this time -- if it isn’t
-golden brown by this time, let it go another 5-15 minutes. To serve, carefully invert the tachin onto a plate (put the
-plate on the top of the baking dish and, holding the plate and pan together tightly, flip it all over) so the crunchy
-yellow rice is on the top. Slicing into this is as satisfying as breaking a creme brulee’s lid, trust me.
-
-If reheating leftovers, sprinkle a little water in and reheat one covered serving at a time so it steams itself a bit -
-it tends to dry out if you try reheating the whole pan at once. This also makes tachin a dish that isn’t great for
-taking to potlucks.
-
-![tachin-final.jpg](/tachin-final.jpg)
-
-*Tachin, the final product*
 
 
 

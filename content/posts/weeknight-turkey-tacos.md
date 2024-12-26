@@ -2,7 +2,7 @@
 title = 'Weeknight Turkey Tacos'
 date = 2017-06-30T07:07:07+01:00
 draft = true
-tags = ['ground turkey','the basics','dinner']
+tags = ['ground turkey','the basics','dinner', 'recipe']
 [params]
     author = 'Amineh'
 +++

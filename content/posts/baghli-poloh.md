@@ -2,7 +2,7 @@
 title = 'Baghli Poloh'
 date = 2015-08-01T07:07:07+01:00
 draft = true
-tags = ['persian', 'rice', 'dinner', 'ground turkey']
+tags = ['persian', 'rice', 'dinner', 'ground turkey', 'recipe']
 [params]
 author = 'Amineh'
 +++

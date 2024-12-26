@@ -1,67 +1,85 @@
 +++
-title = 'Baked Turkey Meatballs'
-date = 2013-09-21T07:07:07+01:00
+title = 'Herbed Tomato Sauce'
+date = 2013-08-03T07:07:07+01:00
 draft = true
-tags = ['freezer cooking', 'comfort food', 'ground turkey']
+tags = ['freezer cooking', 'comfort food','recipe']
 [params]
 author = 'Amineh'
 +++
 
-![turkey-meatballs.jpg](/turkey-meatballs.jpg)
+![tomato-sauce.jpg](/tomato-sauce/tomato-sauce.jpg)
 
-*Baked Turkey Meatballs*
+*Herbed Tomato Sauce*
 
-I will admit that change is really hard for me to deal with. I’m a creature of habit and I hate when those habits have
-to be altered due to circumstances out of my control. Alright, ok, I’ll cop to that as well -- I hate it when there are
-circumstances out of my control!  I’m a type-A control freak who likes to eat her breakfast at the same time every day
-and sit down in the same place while doing it. I do not handle change with grace. I handle it with meatballs.
+It took a year and a half of dating and one massive fight before Daniel admitted he could cook anything other than ramen
+and Kraft macaroni and cheese. Though his stir fry totally ended up being worth forgiving him for, his kitchen
+repertoire pretty much stops there. This is a man who had to ask me how to cook the pre-made turkey burger patty from
+the freezer (hint: take the waxed paper off of it FIRST).
 
-![meatball-ingredients.jpg](/meatball-ingredients.jpg)
+Luckily, unless I’m sick or out for the evening I’m perfectly happy to do all of the cooking. I prefer it! (Side note:
+my family will tell you that “cooking with me” really just means I’ll eventually take the spoon out of your hand
+mid-stir and take over. I contend this is slander and deny everything. I’m not bossy.)  When I am gone for the night, I
+don’t want Daniel to live off of Domino’s pizza and delivery. I’d rather he had something on hand to whip up easily. As
+fate would have it, his macaroni and cheese skills are totally transferable to the task of making spaghetti and
+meatballs.
 
-*Meatball ingredients*
+Not from scratch!  I do that ahead of time for him. I try to always have marinara sauce portioned out in the freezer, as
+well as turkey meatballs to go with it. One of my favorite Sunday afternoon activities is to make a huge batch of both.
+Simmering sauce makes the house smell heavenly, and the payoff is easy dinners later. Plus, it gives me an excuse to sit
+on the couch and read while waiting for it to be finished. Cooking is really, really hard.
 
-Well, maybe that’s too specific. I come from a long tradition of comfort eaters who look for solace in familiar, warm
-foods. This is not the time for fancy recipes with long ingredient lists. This is not the time to flirt with
-vegan/gluten free baking techniques. This is a time for hearty peasant food, food that will fill your belly and make you
-feel just a little safer in the world that is whirling around you at breakneck speed. Food that your mother might have
-made for you when you were a child (Mommy, can I please have crunchy chicken and mashed potatoes?)
+If you do make this lovely herby tomato sauce, don’t just use it for spaghetti. Try baking eggs in it and sopping up the
+juices with some crusty bread. Drop a cupful into your next vegetable soup as a flavorful base. Braise chicken and
+vegetables in it for a comforting winter meal. The options are endless and very, very tasty.  
 
-These meatballs help me feel solid, like not everything always has to change. Maybe the world is as simple now as it was
-when I was a child, gobbling up my mom’s spaghetti and meatballs. All I have to do is enter my own kitchen to find that
-lovely simplicity again.
+![spaghetti-meatballs.jpg](/tomato-sauce/spaghetti-meatballs.jpg)
 
-![rolling-meatballs.jpg](/rolling-meatballs.jpg)
+*Spaghetti and turkey meatballs with roasted green beans*
 
-*Rolling the meatballs (lightly please!)*
-
-## Baked Turkey Meatballs
+## HERBED TOMATO SAUCE
 
 INGREDIENTS
 
-1 ¼ lb ground turkey
+1 28 ounce can diced or pureed tomatoes
 
-½ cup bread crumbs
+1 medium onion, diced
 
-¼ cup grated onion
+1 carrot, grated
 
-¼ cup grated parmesan
+1 can tomato paste
 
-1 minced garlic clove
+3 cloves of garlic, minced
 
-1 egg
+1 1/2 tablespoons olive oil
 
-3 tablespoons fresh herbs (parsley, basil, mint etc)
+1 parmesan cheese rind
 
-½ - ¾ tsp salt
+1 cup water
 
-pepper to taste
+¼ cup chopped fresh parsley (or 2 tablespoons dry)
 
-Preheat oven to 350 degrees
+¼ cup chopped fresh oregano (or 2 tablespoons dry)
 
-Combine all ingredients lightly -- if you mix with a heavy hand, your meatballs will end up dense. Mixing the meat
-should be almost like a gentle fluffing. Do not overmix. Roll your meatballs into 1 inch balls and place on a lightly
-greased or lined baking sheet. Bake for 25 minutes, or until they are cooked through.
+¼ cup chopped fresh basil (or 1 tablespoon dry)
 
-These are also great freezer food!  Let them cool completely on the baking sheet, then freeze the meatballs
-individually. Once they are frozen, store them in a tightly sealed bag or container. Thaw by lightly frying in a pan or
-by dropping them directly into your warming sauce.
+½ tablespoon dry thyme
+
+4 dry bay leaves
+
+1 tablespoon sugar
+
+salt & pepper to taste
+
+In a large dutch oven or heavy bottomed pot, heat the olive oil over medium heat. Sautee the onions and carrots until
+soft, lightly salting & peppering the vegetables. Add the minced garlic and cook for another minute. Stir in the tomato
+paste and cook for another minute or two. Add the tomatoes and the cup of water, as well as the remaining herbs and
+spices and parmesan rind. Stir everything together and let come to a boil.
+
+Once it is boiling, turn down the heat to a simmer and partially cover the pot. Let it simmer for an hour or more,
+stirring occasionally, until the sauce has reached the desired consistency. Salt and pepper to taste - you can also add
+more sugar if your sauce is too tart (this will depend on what tomatoes you have used). Once the sauce is ready, let it
+cool slightly and fish out the bay leaves and the remains of the parmesan rind before serving. If you plan to freeze the
+sauce for later, let it cool completely before freezing in 1 cup servings (muffin tins work well for this).
+
+ 
+

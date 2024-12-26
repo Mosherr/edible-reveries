@@ -1,115 +1,95 @@
 +++
-title = 'Thai Basil Turkey Meatball Spring Rolls'
-date = 2013-07-06T07:07:07+01:00
+title = 'Tachin - Layered Persian Rice'
+date = 2013-06-18T07:07:07+01:00
 draft = true
-tags = ['lunch', 'appetizers', 'ground turkey']
+tags = ['persian', 'rice', 'dinner', 'chicken','recipe']
 [params]
 author = 'Amineh'
 +++
 
-![springroll.jpg](/springroll.jpg)
 
-*Thai basil turkey meatball spring rolls*
+![saffron-yogurt.jpg](/tachin/saffron-yogurt.jpg)
 
-Do you ever try a recipe that sounds delicious and end up totally disappointed? Not that the finished product is bad,
-it’s just … underwhelming. This is doubly unfortunate if you are testing said new recipe on a dinner guest (I almost
-always use my dinner guests as guinea pigs. As of the publishing of this article, none have ever complained about this
-practice). Last night I had a friend over for dinner and had just that experience. I made Thai basil turkey meatballs
-with a spicy garlic dipping sauce and … we were less than impressed. They were edible, and we weren’t hungry anymore
-afterwards, but I wasn’t really looking forward to finishing them up.
+*Saffron lemon yogurt mixture*
 
-![springroll-roll.jpg](../../static/springroll-roll.jpg)
+This, in my mind, is the ultimate in comfort food. I crave this dish at all times. If given the opportunity I will
+shamelessly eat the entire pan. It’s also a showstopper at dinner parties and a great “entry level” Persian dish.
+Everyone likes tachin once they try it; it’s exotic, but the flavors are just close enough to home that they are still
+accessible to less-adventurous palates.
 
-*Rolling the spring rolls*
+White rice is layered with shredded chicken and sour barberries, then finished by a crisped layer of rice that is tinted
+by saffron and flavored with lemon and yogurt. If you’ve never tried barberries, they are an extremely tart berry, about
+the size of small currants but with a wildly different flavor. There really isn’t a replacement for these dried berries,
+nor can you substitute saffron with anything else. You’ll have to go out of your way to a middle eastern market to find
+these ingredients, but they are well worth it and both keep in the freezer indefinitely if well wrapped.
 
-This is where the story gets good. For lunch, I ended up repurposing these sad, bland meatballs and overly salty sauce
-into something beautiful!  It turns out that spring rolls are the easiest thing in the world to make, once you discover
-the knack to rolling the sticky rice paper. I layered the sliced meatballs into the rolls with spinach leaves, carrots,
-bell pepper and green onions cut into matchsticks, and torn up basil, then drizzled all of it with a little of the
-doctored sauce and rolled them up. My friends, the finished product was so much greater than the sum of its parts.
+![tachin-layers.jpg](/tachin/tachin-layers.jpg)
 
-I’m giving you a doctored recipe for my original meatballs and sauce, but please don’t limit yourselves to using
-meatballs!  Slice up some baked tofu, sautee some shrimp, grill some teriyaki chicken. Just please, please buy the
-wrappers (they’re usually by the soy sauce at the grocery store - I bought these at Target, they are not hard to come
-by) and make some healthy and delicious spring rolls!
+*Inner layers of the tachin before baking*
 
-![springroll-innards.jpg](../../static/springroll-innards.jpg)
+I like the bold flavors of this dish, and I always make it even more flavorful by giving it a final hit of salt on my
+plate. The brightness of the lemon plays really well with salt that hasn’t been incorporated during cooking. Of course
+if you are watching your sodium, it isn’t necessary -- but please do make sure to salt your rice cooking water
+liberally, like you would with pasta. Otherwise your final dish will be bland.
 
-*Spring roll innards*
+And do as I do: when it’s time to eat, serve yourself a beautifully composed slice that shows each layer intact. Marvel
+at your own skills. Then mash it all together on your plate so every mouthful has each flavor and texture in it. You’ve
+just experienced the perfect bite of the perfect meal.
 
-## Thai Basil Turkey Meatballs with Peanut Ginger Sauce
+![tachin.jpg](/tachin/tachin.jpg)
 
-INGREDIENTS
+*Tachin*
 
-1 lb ground turkey
-
-½ cup breadcrumbs
-
-2 tablespoons diced green onion
-
-2 tablespoons chopped basil
-
-2 teaspoons Sriracha
-
-2 teaspoons fresh grated ginger
-
-2 teaspoons minced garlic
-
-2 teaspoons fish sauce
-
-1 full egg
-
-1 egg white
-
-Preheat oven to 350 degrees. Mix together all of the ingredients and form 1” meatballs (this is so much easier if you
-wet your hands slightly before working them into balls). Place meatballs on lined baking sheet and spray or brush
-lightly with olive oil. Bake them for 12-15 minutes, until they’re cooked through. Serve drizzled with sauce alone, or
-use the below recipe to create spring rolls.
-
-## Peanut Ginger Sauce
+## TACHIN
 
 INGREDIENTS
 
-¼ cup soy sauce
+2 ½ cups long grain white rice
 
-½ cup water
+1 cup plain yogurt
 
-juice of 1 lime
+2 tablespoons lemon juice
 
-2 teaspoons fish sauce
+1 egg yolk
 
-4 teaspoons sugar
+Pinch of saffron threads
 
-3 cloves minced garlic
+⅛ cup dried barberries
 
-2 tablespoon fresh grated ginger
+1 cup cooked chicken, diced
 
-3 teaspoons Sriracha
+½ teaspoon salt
 
-1 tablespoon diced green onion
+Dash of pepper
 
-1 ½ tablespoons peanut butter
+3-4 tablespoons olive oil
 
-2 teaspoons cornstarch
+Preheat your oven to 375 degrees.
 
-Whisk all ingredients together, then bring to a boil briefly before simmering until it thickens slightly. You want it
-drizzle-worthy; add more hot water to thin if needed.
+Salt a large pot of water generously; add the dry rice and bring to a boil. Don’t fully cook it -- once the rice is
+about half cooked, drain it into a fine mesh strainer and run cold water over it. The rice should still have a bite to
+it at this stage.
 
-## SPRING ROLLS
+While the rice is cooking, mix together the yogurt, egg yolk, salt and pepper, saffron, 1 tablespoon of the olive oil
+and lemon juice thoroughly in a medium bowl. Stir in 2 ½ - 3 cups of the parboiled white rice.
 
-Slice the cooled meatballs, along with carrots, bell peppers, basil, and green onions -- whatever fresh vegetables you
-happen to have on hand. Heat up sautee pan of water until it is hot, but not so hot you can’t touch it. Quickly and
-gingerly dip the dry wrapper into the hot water until it is sticky and soft - it is hard to handle at this point, so it
-might take you a couple tries to do it. Don’t worry, even if the wrapper folds in on itself a little it is still tasty!
-This took me 3 or 4 one-second dips into the water. Let the excess water drip off and lay the softened wrapper on a
-plate. Lay down a bed of spinach, the meatball slices and vegetable matchsticks, as well as the torn up herbs (cilantro
-would also be great instead of basil). Drizzle a little sauce over the innards and roll in like a burrito: fold the top
-and bottom flaps of the circle slightly over the filling, and then roll on side toward the other until you have a
-wrapped roll. Serve cold with more of the sauce.
+Spread the yellow rice mixture in a greased 8x8 glass baking dish (you want something you can see through here). Evenly
+sprinkle in the barberries, and then the cooked chicken. Finish with the remainder of the white rice. Smooth everything
+out and drizzle over the remaining olive oil.
 
-![springroll-eating.jpg](../../static/springroll-eating.jpg)
+Cover tightly with foil and bake in the hot oven for 1 hour and 15 minutes. Check the bottom at this time -- if it isn’t
+golden brown by this time, let it go another 5-15 minutes. To serve, carefully invert the tachin onto a plate (put the
+plate on the top of the baking dish and, holding the plate and pan together tightly, flip it all over) so the crunchy
+yellow rice is on the top. Slicing into this is as satisfying as breaking a creme brulee’s lid, trust me.
 
-*Eating the rolls is the best part!*
+If reheating leftovers, sprinkle a little water in and reheat one covered serving at a time so it steams itself a bit -
+it tends to dry out if you try reheating the whole pan at once. This also makes tachin a dish that isn’t great for
+taking to potlucks.
+
+![tachin-final.jpg](/tachin-final.jpg)
+
+*Tachin, the final product*
+
 
 
 

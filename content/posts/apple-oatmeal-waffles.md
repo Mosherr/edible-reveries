@@ -2,7 +2,7 @@
 title = 'Apple Oatmeal Waffles'
 date = 2017-07-18T07:07:07+01:00
 draft = true
-tags = ['breakfast','breakfast for dinner','dinner']
+tags = ['breakfast','breakfast for dinner','dinner', 'recipe']
 [params]
     author = 'Amineh'
 +++

@@ -2,7 +2,7 @@
 date = '2018-07-17T13:19:10-08:00'
 draft = true
 title = 'Thai Steak Noodle Salad'
-tags = ['summer meal', 'dinner', 'grilling']
+tags = ['summer meal', 'dinner', 'grilling', 'recipe']
 [params]
     author = 'Amineh'
 +++

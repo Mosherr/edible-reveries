@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Edible Reveries'
+subtitle = 'Thoughts from an opinionated home cook.'
 theme = 'ananke'
 
 [taxonomies]
