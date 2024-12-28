@@ -13,7 +13,7 @@ author = 'Amineh'
 I’m a huge fan of adaptable pantry recipes - meals that allow me to make as few trips to the grocery store as possible
 and just cook according to what I have on hand. Lentil soup is a great one for this, as you can make it with whatever is
 in your fridge and it will still taste warming and hearty, as well as unutterably delicious (this is doubly true if you
-make a batch of [warm biscuits](/biscuit-quest) or cornbread to eat alongside the soup!)
+make a batch of [warm biscuits](/posts/biscuit-quest) or cornbread to eat alongside the soup!)
 
 I don’t really use recipes when I’m making lentil soup as you really can make it with whatever happens to be wilting in
 your crisper drawer, but let me give you some of the basic guidelines and then move on to what I made today.

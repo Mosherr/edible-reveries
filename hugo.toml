@@ -1,8 +1,62 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ediblereveries.com/'
 languageCode = 'en-us'
 title = 'Edible Reveries'
 subtitle = 'Thoughts from an opinionated home cook.'
-theme = 'ananke'
+theme = 'lightbi-hugo'
+
+[pagination]
+pagerSize = 6
+
+[Params]
+selfHosted = true
+mainSections = ["post","posts"]
+dateFormat = "02 January 2006"
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true
+summaryLength  = "9"
+lunrSearch = true
+gcse = false
+lastmod = false
+rss = false
+pagination = "10"
+hideAuthor = false
+description="Thoughts from an opinionated home cook."
+previewCardImagePlacement = "bottom"
+showPostImage = false
+
+[Params.Author]
+name = "Amineh"
+website = "https://www.ediblereveries.com/"
+authorInfo = "Thoughts from an opinionated home cook."
+#authorPostImage = "/img/author-post-img.jpg"
+#email = "sample@gmail.com"
+#facebook = "username"
+#instagram = "username"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/blog/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 4
 
 [taxonomies]
 tag = 'tags'
