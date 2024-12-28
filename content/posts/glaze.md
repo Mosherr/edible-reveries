@@ -11,7 +11,7 @@ author = 'Amineh'
 
 *Chicken teriyaki from Glaze SF - am I the only one who wonders about the boob rice trend in restaurants like this?*
 
-While I continue on my never ending quest for the Perfect Biscuit, Daniel has a food related quest of his own -- to
+While I continue on my never ending quest for the [Perfect Biscuit](/biscuit-quest), Daniel has a food related quest of his own -- to
 finally find teriyaki in San Francisco that matches what he believes teriyaki should be. He’s picky about the quality of
 the meat -- he’s picky about the flavor of the sauce -- I don’t know what else he is picky about, but there has never
 been anything in our great city to suit him. And we’ve ordered teriyaki from what seems like dozens of restaurants.
