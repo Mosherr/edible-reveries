@@ -1,7 +1,7 @@
 +++
 title = 'Glaze SF'
 date = 2013-06-08T07:07:07+01:00
-draft = true
+draft = false
 tags = ['san francisco','life long quests','review','restaurant review']
 [params]
 author = 'Amineh'

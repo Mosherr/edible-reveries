@@ -1,7 +1,7 @@
 +++
 title = 'Welcome!'
 date = 2013-02-19T07:07:07+01:00
-draft = true
+draft = false
 tags = ['welcome', 'miscellaneous']
 [params]
 author = 'Amineh'

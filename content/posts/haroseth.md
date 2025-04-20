@@ -1,7 +1,7 @@
 +++
 title = 'Dried Fruit Haroseth'
 date = 2013-04-02T07:07:07+01:00
-draft = true
+draft = false
 tags = ['recipe', 'jewish', 'snack', 'appetizer', 'holiday']
 [params]
 author = 'Amineh'

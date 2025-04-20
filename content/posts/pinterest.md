@@ -1,7 +1,7 @@
 +++
 title = 'Pinterest - Recommendations or Ideas?'
 date = 2013-03-19T07:07:07+01:00
-draft = true
+draft = false
 tags = ['pinterest', 'miscellaneous']
 [params]
 author = 'Amineh'

@@ -1,7 +1,7 @@
 +++
 title = 'Lentil Soup: The Basics and My Favorite'
 date = 2013-03-09T07:07:07+01:00
-draft = true
+draft = false
 tags = ['recipe', 'the basics', 'lunch', 'legumes']
 [params]
 author = 'Amineh'

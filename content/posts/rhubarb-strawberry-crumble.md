@@ -1,7 +1,7 @@
 +++
 title = 'Rhubarb Strawberry Crumble'
 date = 2013-05-04T07:07:07+01:00
-draft = true
+draft = false
 tags = ['dessert', 'recipe']
 [params]
 author = 'Amineh'

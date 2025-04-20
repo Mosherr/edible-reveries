@@ -1,7 +1,7 @@
 +++
 title = 'Sticky Ginger Tofu'
 date = 2017-06-29T07:07:07+01:00
-draft = true
+draft = false
 tags = ['vegetarian','dinner', 'recipe']
 [params]
     author = 'Amineh'

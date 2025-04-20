@@ -1,7 +1,7 @@
 +++
 title = 'Birthday Dinner at Aziza'
 date = 2013-02-22T07:07:07+01:00
-draft = true
+draft = false
 tags = ['restaurant review', 'review', 'san francisco']
 [params]
 author = 'Amineh'

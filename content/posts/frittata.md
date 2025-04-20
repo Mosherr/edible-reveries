@@ -1,7 +1,7 @@
 +++
 title = 'Frittata - The Basics and My Favorite'
 date = 2013-02-20T07:07:07+01:00
-draft = true
+draft = false
 tags = ['basics', 'breakfast', 'vegetarian', 'recipe', 'favorite']
 [params]
 author = 'Amineh'
